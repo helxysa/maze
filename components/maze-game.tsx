@@ -446,7 +446,7 @@ export default function MazeGame() {
               <div className="flex flex-col gap-4">
                 {/* Botão Resgatar com efeito hover elaborado */}
                 <a 
-                  href="https://wa.me/95981182114?text=oi%20vose%20ganho%20um%20vale%20sorvete%20ou%20so%20uma%20tarde%20qualquer%20mas%20vose%20ganho" 
+                  href="https://wa.me/96981182114?text=oi%20vose%20ganho%20um%20vale%20sorvete%20ou%20so%20uma%20tarde%20qualquer%20mas%20vose%20ganho" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="relative group overflow-hidden rounded-full"
